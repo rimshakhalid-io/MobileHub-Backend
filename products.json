@@ -1,0 +1,90 @@
+[
+    {
+        "manufacturer": "Google Inc.",
+        "model": "Google Pixel 3",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/best-google-pixel-phone-66df3bfde3396.jpg?crop=0.481xw:0.962xh;0.119xw,0.0224xh&resize=1200:*",
+        "price": "799.00",
+        "description": "Staying too far from your loved ones? Video call them for hours on end. The weather is romantic? Listen to your favourite playlists all day long. Don’t want to go out this weekend? Then binge watch your favourite series on the Internet. The Pixel 3 ensures that there’s never a dull moment, all thanks to its powerful battery, impressive cameras and its expansive bezel-less display.",
+        "specs": {
+            "body": "145.6 x 68.2 x 7.9 mm (5.73 x 2.69 x 0.31 in)",
+            "camera": {
+                "main": "12.2 MP (wide) dual pixel",
+                "selfie": "8 MP (ultrawide), no AF",
+                "features": "Dual-LED flash, Auto-HDR, panorama"
+            },
+            "memory": "64/128 GB, 4 GB RAM",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "5.5 inches, 1080 x 2160 pixels, 18:9 ratio (~443 ppi density)",
+            "features": "NFC, USB 3.1 Type-C 1.0, fingerprint (rear-mounted), fast battery charging, Gorilla Glass 5, aluminum frame, IP68 dust/water resistant, Always-on display, HDR",
+            "platform": "OS Android 9.0 (Pie)"
+        },
+        "stock": 49
+    },
+    {
+        "manufacturer": "Apple Inc.",
+        "model": "iPhone 16",
+        "image": "https://images.hindustantimes.com/tech/img/2022/03/28/960x540/APPLE-IPHONE-SE-3-20_1648476764329_1648476820144.jpg",
+        "price": "699.00",
+        "description": "Experience the latest in technology with the iPhone 16, designed to connect you with your loved ones effortlessly. Capture stunning photos, enjoy your favorite music, and dive into your favorite shows with this powerful device.",
+        "specs": {
+            "body": "145.6 x 68.2 x 7.9 mm (5.73 x 2.69 x 0.31 in)",
+            "camera": {
+                "main": "12.2 MP (wide) dual pixel",
+                "selfie": "16 MP (ultrawide)",
+                "features": "Dual-LED flash, Auto-HDR, panorama"
+            },
+            "memory": "64/128 GB, 4 GB RAM",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "5.5 inches, 1080 x 2160 pixels, 18:9 ratio (~443 ppi density)",
+            "features": "NFC, USB 3.1 Type-C 1.0, fingerprint (rear-mounted), fast battery charging, Gorilla Glass 5, aluminum frame, IP68 dust/water resistant, Always-on display, HDR",
+            "platform": "OS Android 9.0 (Pie)"
+        },
+        "stock": 30
+    },
+    {
+        "manufacturer": "Apple Inc.",
+        "model": "Samsung Galaxy Note 10 Plus Mobile",
+        "image": "https://www.mega.pk/items_images/Samsung+Galaxy+Note+10+Plus+Mobile+12GB+RAM+512GB+Storage+Price+in+Pakistan%2C+Specifications%2C+Features_-_19294.webp",
+        "price": "699.00",
+        "description": "Experience the latest in technology with the iPhone 16, designed to connect you with your loved ones effortlessly. Capture stunning photos, enjoy your favorite music, and dive into your favorite shows with this powerful device.",
+        "specs": {
+            "body": "145.6 x 68.2 x 7.9 mm (5.73 x 2.69 x 0.31 in)",
+            "camera": {
+                "main": "12.2 MP (wide) dual pixel",
+                "selfie": "16 MP (ultrawide)",
+                "features": "Dual-LED flash, Auto-HDR, panorama"
+            },
+            "memory": "64/128 GB, 4 GB RAM",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "5.5 inches, 1080 x 2160 pixels, 18:9 ratio (~443 ppi density)",
+            "features": "NFC, USB 3.1 Type-C 1.0, fingerprint (rear-mounted), fast battery charging, Gorilla Glass 5, aluminum frame, IP68 dust/water resistant, Always-on display, HDR",
+            "platform": "OS Android 9.0 (Pie)"
+        },
+        "stock": 30
+    },
+    {
+        "manufacturer": "Apple Inc.",
+        "model": "Vivo Y17s 6GB RAM 128GB Storage PTA Approved",
+        "image": "https://www.mega.pk/items_images/Vivo+Y17s+6GB+RAM+128GB+Storage+PTA+Approved+Price+in+Pakistan%2C+Specifications%2C+Features_-_24985.webp",
+        "price": "699.00",
+        "description": "Experience the latest in technology with the iPhone 16, designed to connect you with your loved ones effortlessly. Capture stunning photos, enjoy your favorite music, and dive into your favorite shows with this powerful device.",
+        "specs": {
+            "body": "145.6 x 68.2 x 7.9 mm (5.73 x 2.69 x 0.31 in)",
+            "camera": {
+                "main": "12.2 MP (wide) dual pixel",
+                "selfie": "16 MP (ultrawide)",
+                "features": "Dual-LED flash, Auto-HDR, panorama"
+            },
+            "memory": "64/128 GB, 4 GB RAM",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "5.5 inches, 1080 x 2160 pixels, 18:9 ratio (~443 ppi density)",
+            "features": "NFC, USB 3.1 Type-C 1.0, fingerprint (rear-mounted), fast battery charging, Gorilla Glass 5, aluminum frame, IP68 dust/water resistant, Always-on display, HDR",
+            "platform": "OS Android 9.0 (Pie)"
+        },
+        "stock": 30
+    }
+]
